@@ -14,6 +14,6 @@ When you download the picture successfuly,there will be a picture blow the butto
 ![此处输入图片的描述][3]
 
 
-  [1]: http://7xo4wg.com1.z0.glb.clouddn.com/ImageDemo1.jpg
-  [2]: http://7xo4wg.com1.z0.glb.clouddn.com/ImageDemo2.jpg
-  [3]: http://7xo4wg.com1.z0.glb.clouddn.com/ImageDemo3.jpg
+  [1]: http://7xo4wg.com1.z0.glb.clouddn.com/AndroidImageDemo1.jpg
+  [2]: http://7xo4wg.com1.z0.glb.clouddn.com/AndroidImageDemo1.jpg
+  [3]: http://7xo4wg.com1.z0.glb.clouddn.com/AndroidImageDemo3.jpg
